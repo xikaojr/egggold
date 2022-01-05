@@ -1,0 +1,4 @@
+#Vamos criar uma Api para um dono de galinheiro?
+#Ele tem um numero de galinhas X que coloca Y Ovos. Ao longo de 365 dias 
+#vamos calcular quantos ovos ele vai ter num ano, o valor do ovo vendido
+#e o total estimado de fa aturamento! kkk
